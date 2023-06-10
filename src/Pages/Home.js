@@ -122,7 +122,7 @@ function Home() {
                                 <div className="py-6">
                                     <div className="w-[100%] flex sm:block">
                                         <div className="w-[50%] sm:w-[100%]">
-                                            <div className="text-[34px] title text-left sm:pb-4">
+                                            <div className="text-[44px] title text-left leading-[46px] sm:pb-4">
                                                 W. The Bright<br />
                                                 Future of<br />
                                                 Web 3.0?<br />
